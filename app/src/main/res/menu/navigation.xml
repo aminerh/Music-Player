@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/nav_playlist"
+    android:icon="@drawable/ic_baseline_queue_music_24"
+
+    android:title="Playlists"/>
+
+    <item android:id="@+id/nav_tracks"
+        android:icon="@drawable/ic_baseline_album_24"
+        android:title="Tracks"/>
+
+    <item android:id="@+id/nav_search"
+        android:icon="@drawable/music"
+        android:title="timer"/>
+
+</menu>
