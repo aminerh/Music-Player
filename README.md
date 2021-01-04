@@ -29,6 +29,8 @@ contains all the songs stocked in the selected playlist
 ### SongActivity activity
 play the selected music
 
+# Issues
+We tried to manage the bound service (Bind/Unbind) to start the music in background but we had many issues using it.
 # Credit
 This project is realised by <br>
 Amine RHOUNI BELLOUTI<br>
