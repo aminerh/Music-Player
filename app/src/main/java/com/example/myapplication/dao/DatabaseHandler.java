@@ -65,7 +65,7 @@ public class DatabaseHandler extends SQLiteOpenHelper {
                 + "FOREIGN KEY ("+KEY_IDS+") REFERENCES "+TABLE_SONG+"("+KEY_IDS+"),"
                 + "FOREIGN KEY ("+KEY_ID+") REFERENCES "+TABLE_PLAYLIST+"("+KEY_ID+")"
                 +")";
-       // db.execSQL(CREATE_PLAYLISTE_TABLE);
+        db.execSQL(CREATE_PLAYLISTE_TABLE);
         db.execSQL(CREATE_SONGS_TABLE);
         db.execSQL(CREATE_HAVE_TABLE);
 
