@@ -212,8 +212,8 @@ public class SongActivity extends AppCompatActivity implements SensorEventListen
         }
 
         lastx =curentx;
-        lastx =curentx;
-        lastx =curentx;
+        lasty =curenty;
+        lastz =curentz;
 
         notfirsttime=true;
 
