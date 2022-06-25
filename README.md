@@ -1,6 +1,8 @@
-# Dev_app_project2020
+# Music Player
 
-
+# Introduction
+  The main purpose of this application is to display and listen to all the music on the phone
+  
 # Project Overview
 ### beans
   A beans package contains all the classes that we gonna need
@@ -31,8 +33,6 @@ play the selected music
 
 # Credit
 This project is realised by <br>
-Amine RHOUNI BELLOUTI<br>
-AND<br>
-Jad BENHRA
+Amine RHOUNI BELLOUTI
 
 
